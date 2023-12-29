@@ -279,7 +279,7 @@ class LoginController extends Controller
        }
        
        
-      }catch (\Exception $exception){
+      }catch (\Throwable $exception){
           return ["code" => -1, "data" => "", "msg" => "Exception"];  
         }
   }

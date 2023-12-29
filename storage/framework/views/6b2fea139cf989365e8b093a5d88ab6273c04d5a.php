@@ -1,2 +1,0 @@
-<input type="hidden" name="<?php echo e($name, false); ?>" value="<?php echo e($value, false); ?>" class="<?php echo e($class, false); ?>" <?php echo $attributes; ?> />
-<?php /**PATH C:\Users\Bruno\Downloads\chatty-app-code\smhelp.wuaze.com\vendor\encore\laravel-admin\resources\views\form\hidden.blade.php ENDPATH**/ ?>
